@@ -1,5 +1,5 @@
 # Olá, meu nome é Luiz Filipe.
-- Atualmente tenho 19 anos e estudo na Universidade Federal do Tocantins. Resido em Palmas-TO e possuo habilidades nas seguintes tecnlogias:
+- Atualmente tenho 19 anos e estudo na Universidade Federal do Tocantins. Resido em Palmas-TO e possuo habilidades nas seguintes tecnologias:
 ##
 <div>
   <img style="width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -12,4 +12,3 @@
   <img style="width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img style="width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
-
