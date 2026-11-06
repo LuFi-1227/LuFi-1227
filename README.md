@@ -2,16 +2,13 @@
 
 🎓 Graduando em **Ciência da Computação** pela **Universidade Federal do Tocantins (UFT)**  
 📍 Palmas – TO, Brasil  
-💻 Desenvolvedor Full Stack | Estudante | Estagiário em Desenvolvimento de Software  
+💻 Desenvolvedor Full Stack | Bacharel em Ciência da Computação | Desenvolvedor pleno em Java e Python
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação, com forte interesse em **desenvolvimento de software, APIs, sistemas web e mobile**, além de fundamentos teóricos da computação.  
-Tenho facilidade em aprender novas tecnologias, boa lógica de programação e foco em criar soluções eficientes, organizadas e bem documentadas.
-
-Atualmente, busco oportunidades para **aprimorar minhas habilidades práticas**, contribuir com projetos reais e evoluir profissionalmente na área de tecnologia.
+Bacharel em Ciência da Computação pela Universidade Federal do Tocantins, com experiência em desenvolvimento de software, construção de APIs REST, integração de sistemas e suporte técnico. Conhecimentos em Java, Python, JavaScript e bancos de dados relacionais, além de experiência com Docker e infraestrutura de aplicações. Interesse em arquitetura de software, desenvolvimento backend e construção de soluções escaláveis.
 
 ---
 
@@ -27,6 +24,7 @@ Atualmente, busco oportunidades para **aprimorar minhas habilidades práticas**,
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Linguagens
+- Java
 - Python  
 - JavaScript  
 - PHP  
@@ -62,16 +60,15 @@ Atualmente, busco oportunidades para **aprimorar minhas habilidades práticas**,
 
 **Bacharelado em Ciência da Computação**  
 Universidade Federal do Tocantins (UFT)  
-📅 Conclusão prevista: **Dezembro de 2025**
+📅 Conclusão: **Dezembro de 2025**
 
 ---
 
 ## 📜 Certificações
 
-- Flutter  
-- React  
+- Flutter
+- Java   
 - Git e GitHub  
-- Lógica de Programação com Python  
 
 ---
 
