@@ -1,6 +1,6 @@
 # 👋 Luiz Filipe de Souza Alves
 
-🎓 Graduando em **Ciência da Computação** pela **Universidade Federal do Tocantins (UFT)**  
+🎓 Graduado em **Ciência da Computação** pela **Universidade Federal do Tocantins (UFT)**  
 📍 Palmas – TO, Brasil  
 💻 Desenvolvedor Full Stack | Bacharel em Ciência da Computação | Desenvolvedor pleno em Java e Python
 
